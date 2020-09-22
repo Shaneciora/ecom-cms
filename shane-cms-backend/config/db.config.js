@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://localhost:27017/bezkoder_db"
+    url: "mongodb+srv://shaneciora:<thisisapassword123>@cluster0.pedcl.mongodb.net/<dbname>?retryWrites=true&w=majority"
   };
